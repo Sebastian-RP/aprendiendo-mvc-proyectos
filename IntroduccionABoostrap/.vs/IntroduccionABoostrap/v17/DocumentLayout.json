@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\IntroduccionABoostrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A4336D-B2B7-4C32-A8F5-AFB0B46E81E0}|IntroduccionABoostrap\\IntroduccionABoostrap.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\introduccionaboostrap\\introduccionaboostrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1A4336D-B2B7-4C32-A8F5-AFB0B46E81E0}|IntroduccionABoostrap\\IntroduccionABoostrap.csproj|solutionrelative:introduccionaboostrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A4336D-B2B7-4C32-A8F5-AFB0B46E81E0}|IntroduccionABoostrap\\IntroduccionABoostrap.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\introduccionaboostrap\\introduccionaboostrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1A4336D-B2B7-4C32-A8F5-AFB0B46E81E0}|IntroduccionABoostrap\\IntroduccionABoostrap.csproj|solutionrelative:introduccionaboostrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A4336D-B2B7-4C32-A8F5-AFB0B46E81E0}|IntroduccionABoostrap\\IntroduccionABoostrap.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\introduccionaboostrap\\introduccionaboostrap\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1A4336D-B2B7-4C32-A8F5-AFB0B46E81E0}|IntroduccionABoostrap\\IntroduccionABoostrap.csproj|solutionrelative:introduccionaboostrap\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\IntroduccionABoostrap\\IntroduccionABoostrap\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "IntroduccionABoostrap\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\IntroduccionABoostrap\\IntroduccionABoostrap\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "IntroduccionABoostrap\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T02:48:43.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\IntroduccionABoostrap\\IntroduccionABoostrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroduccionABoostrap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\IntroduccionABoostrap\\IntroduccionABoostrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroduccionABoostrap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T02:39:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\IntroduccionABoostrap\\IntroduccionABoostrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroduccionABoostrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\IntroduccionABoostrap\\IntroduccionABoostrap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IntroduccionABoostrap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T02:36:14.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

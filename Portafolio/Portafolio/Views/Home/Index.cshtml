@@ -1,0 +1,65 @@
+﻿@model Persona
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Soy @Model.Nombre (@Model.Edad)</h1>
+    <h2>Soy un desarrollador Fullstack especializado en tecnologias .NET y JavaScript</h2>
+    <img id="foto" src="~/imagenes/gianluigi-buffon-2050291.jpg" alt="foto de Gianluigi" />
+
+</div>
+
+<div class="row justify-content-center text-center bg-primary">
+    <div class="col col-md-7 seccion-bienvenida">
+        <h1>Te doy la bienvenida a mi portafolio</h1>
+        <p>
+            Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
+        </p>
+    </div>
+</div>
+
+<div style="margin-top: -105px;">
+    <div class="row justify-content-md-center text-center">
+        <div class="col col-3 bg-white habilidades" style="border-radius: 15px 0 0 15px; box-shadow: 0 5px 5px 0 gray;">
+            <i class="bi bi-hdd-fill"></i>
+            <h3>Back-end</h3>
+            <p>Trabajo desde el desarrollo, pruebas automaticas y puesta en produccion con entrega continua</p>
+            <p class="text-primary cabecera">Stack: </p>
+            <p>ASP.NET Core, SQL Server</p>
+            <p class="text-primary cabecera">Experiencia: </p>
+
+            <ul>
+                <li>Web APIs</li>
+                <li>ASP.NET Core MVC</li>
+                <li>Entity Framework Core</li>
+                <li>Blazor</li>
+                <li>Dapper</li>
+                <li>Queries espaciales</li>
+                <li>Principios SOLID</li>
+            </ul>
+        </div>
+        <div class="col col-3 bg-white habilidades" style="border-radius: 0 15px 15px 0; box-shadow: 0 5px 5px 0 gray;">
+            <i class="bi bi-code-slash"></i>
+            <h3>Front-End</h3>
+            <p>
+                Puedo crear front-ends robustos los cuales cumplen con los requerimientos del negocio.
+            </p>
+
+            <p class="text-primary cabecera">Stack: </p>
+            <p>React, Angular, Blazor</p>
+            <p class="text-primary cabecera">Experiencia: </p>
+
+            <ul>
+                <li>React Hooks</li>
+                <li>Angular Material</li>
+                <li>Blazor WASM</li>
+                <li>JQuery</li>
+                <li>Pruebas automaticas</li>
+                <li>Leaflet</li>
+                <li>Markdown</li>
+            </ul>
+        </div>
+    </div>
+</div>
