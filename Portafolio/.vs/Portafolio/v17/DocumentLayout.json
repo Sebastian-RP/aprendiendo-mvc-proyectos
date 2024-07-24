@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\portafolio\\portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|c:\\users\\user\\documents\\curso udemy\\aprendiendo-mvc-proyectos\\portafolio\\portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F20762C4-405C-4BDB-A138-10B4147E0334}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABzAAAA",
+              "Title": "Gracias.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Gracias.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Gracias.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Gracias.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Gracias.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T01:20:33.63Z",
+              "WhenOpened": "2024-07-24T03:07:51.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAyAAAA",
+              "DocumentIndex": 3,
+              "Title": "Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T01:44:20.93Z",
+              "WhenOpened": "2024-07-24T02:55:32.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Custom.css",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\css\\Custom.css",
-              "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\Custom.css",
-              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\css\\Custom.css",
-              "RelativeToolTip": "Portafolio\\wwwroot\\css\\Custom.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-20T00:46:17.245Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:39:21.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:35:30.488Z",
               "EditorCaption": ""
             }
           ]

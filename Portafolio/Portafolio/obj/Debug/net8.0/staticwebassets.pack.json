@@ -17,8 +17,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\amazon.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\amazon.PNG"
+    },
+    {
       "Id": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\gianluigi-buffon-2050291.jpg",
       "PackagePath": "staticwebassets\\imagenes\\gianluigi-buffon-2050291.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\nyt.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\nyt.PNG"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\reddit.PNG"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\steam.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\steam.PNG"
     },
     {
       "Id": "C:\\Users\\User\\Documents\\Curso Udemy\\aprendiendo-mvc-proyectos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",

@@ -13,6 +13,7 @@ C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafo
 C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.RazorAssemblyInfo.cache
 C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.sourcelink.json
 C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafolio\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafolio\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\User\Documents\Curso Udemy\aprendiendo-mvc-proyectos\Portafolio\Portafolio\obj\Debug\net8.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
